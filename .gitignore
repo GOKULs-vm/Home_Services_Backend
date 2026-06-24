@@ -20,3 +20,5 @@ pnpm-debug.log*
 # Operating System System Artifacts
 .DS_Store
 Thumbs.db
+
+seed/seedAdmin.js
